@@ -5,20 +5,20 @@
 | Num | Name |  auther   | Description  | Stars | Last update |
 |-------|------|-------------|----------|-------|----|
 | 1 |[MathTranslate](https://github.com/SUSYUSTC/MathTranslate) | [SUSYUSTC](https://github.com/SUSYUSTC) | translate scientific papers with math | 501 | 2023-05-30 |
-| 2 |[processing-animations-code](https://github.com/Bleuje/processing-animations-code) | [Bleuje](https://github.com/Bleuje) | A set of Processing animations, which have improved and commented code | 128 | 2023-05-28 |
+| 2 |[processing-animations-code](https://github.com/Bleuje/processing-animations-code) | [Bleuje](https://github.com/Bleuje) | A set of Processing animations, which have improved and commented code | 128 | 2023-05-30 |
 | 3 |[Depix](https://github.com/beurtschipper/Depix) | [beurtschipper](https://github.com/beurtschipper) | Recovers passwords from pixelized screenshots | 23937 | 2023-05-17 |
 | 4 |[DragGAN](https://github.com/Zeqiang-Lai/DragGAN) | [Zeqiang-Lai](https://github.com/Zeqiang-Lai) | Online Demo and Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on ... | 2989 | 2023-05-30 |
-| 5 |[gorilla](https://github.com/ShishirPatil/gorilla) | [ShishirPatil](https://github.com/ShishirPatil) | Gorilla: An API store for LLMs | 1806 | 2023-05-30 |
+| 5 |[gorilla](https://github.com/ShishirPatil/gorilla) | [ShishirPatil](https://github.com/ShishirPatil) | Gorilla: An API store for LLMs | 1809 | 2023-05-30 |
 | 6 |[ida-plugins](https://github.com/vmallet/ida-plugins) | [vmallet](https://github.com/vmallet) | An interactive list of plugins for hex-rays' IDA Pro | 160 | 2023-05-22 |
 | 7 |[pytorch-handbook](https://github.com/zergtant/pytorch-handbook) | [zergtant](https://github.com/zergtant) | pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行 | 18336 | 2023-03-22 |
 | 8 |[DragGAN](https://github.com/XingangPan/DragGAN) | [XingangPan](https://github.com/XingangPan) | Code for DragGAN (SIGGRAPH 2023) | 13978 | 2023-05-21 |
 | 9 |[competition-baseline](https://github.com/datawhalechina/competition-baseline) | [datawhalechina](https://github.com/datawhalechina) | 数据挖掘、计算机视觉、自然语言处理、推荐系统竞赛知识、代码、思路 | 3414 | 2023-05-30 |
 | 10 |[pygtrans](https://github.com/foyoux/pygtrans) | [foyoux](https://github.com/foyoux) | 谷歌翻译, 支持 APIKEY 一口气翻译十万条 | 146 | 2023-04-28 |
-| 11 |[pot-desktop](https://github.com/pot-app/pot-desktop) | [pot-app](https://github.com/pot-app) | 🌈一个跨平台的划词翻译软件 | A cross-platform translation software | 1863 | 2023-05-30 |
+| 11 |[pot-desktop](https://github.com/pot-app/pot-desktop) | [pot-app](https://github.com/pot-app) | 🌈一个跨平台的划词翻译软件 | A cross-platform translation software | 1864 | 2023-05-30 |
 | 12 |[HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) | [geekan](https://github.com/geekan) | 程序员延寿指南 | A programmer's guide to live longer | 25171 | 2023-04-05 |
 | 13 |[AFL](https://github.com/google/AFL) | [google](https://github.com/google) | american fuzzy lop - a security-oriented fuzzer | 3143 | 2021-07-05 |
 | 14 |[papers-we-love](https://github.com/papers-we-love/papers-we-love) | [papers-we-love](https://github.com/papers-we-love) | Papers from the computer science community to read and discuss. | 73039 | 2023-05-14 |
-| 15 |[GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | [chatanywhere](https://github.com/chatanywhere) | Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（低价），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低... | 1193 | 2023-05-25 |
+| 15 |[GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | [chatanywhere](https://github.com/chatanywhere) | Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（低价），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低... | 1194 | 2023-05-25 |
 | 16 |[FixIt](https://github.com/hugo-fixit/FixIt) | [hugo-fixit](https://github.com/hugo-fixit) | 🔧 A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题 | 264 | 2023-05-01 |
 | 17 |[LoveIt](https://github.com/dillonzq/LoveIt) | [dillonzq](https://github.com/dillonzq) | ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题 | 2898 | 2023-05-08 |
 | 18 |[GoSSIP_Blog](https://github.com/GoSSIP-SJTU/GoSSIP_Blog) | [GoSSIP-SJTU](https://github.com/GoSSIP-SJTU) | 每周定期更新论文笔记分享的markdown以及图片 | 173 | 2021-04-06 |
@@ -35,13 +35,13 @@
 | 29 |[illustrated-machine-learning.github.io](https://github.com/illustrated-machine-learning/illustrated-machine-learning.github.io) | [illustrated-machine-learning](https://github.com/illustrated-machine-learning) | Website containing illustrations about Machine Learning theory!  | 416 | 2023-04-16 |
 | 30 |[funNLP](https://github.com/fighting41love/funNLP) | [fighting41love](https://github.com/fighting41love) | 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模... | 50925 | 2023-05-29 |
 | 31 |[AI-Sec-Paper-Sharing](https://github.com/eastmountyxz/AI-Sec-Paper-Sharing) | [eastmountyxz](https://github.com/eastmountyxz) | 该资源为作者AI安全相关论文的分享知识，包括PPT和PDF版本及原文，希望对您有所帮助。加油~ | 14 | 2023-04-06 |
-| 32 |[openai-cookbook](https://github.com/openai/openai-cookbook) | [openai](https://github.com/openai) | Examples and guides for using the OpenAI API | 37359 | 2023-05-30 |
+| 32 |[openai-cookbook](https://github.com/openai/openai-cookbook) | [openai](https://github.com/openai) | Examples and guides for using the OpenAI API | 37360 | 2023-05-30 |
 | 33 |[LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) | [RUCAIBox](https://github.com/RUCAIBox) | The official GitHub page for the survey paper "A Survey of Large Language Models". | 2107 | 2023-05-07 |
 | 34 |[cpu-internals](https://github.com/LordNoteworthy/cpu-internals) | [LordNoteworthy](https://github.com/LordNoteworthy) | Intel / AMD CPU Internals | 814 | 2021-03-07 |
 | 35 |[ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese) | [GitHubDaily](https://github.com/GitHubDaily) | 《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕 Unofficial subtitles of "ChatGPT Prompt Engineering for Developers" | 766 | 2023-05-08 |
 | 36 |[AtomicSyscall](https://github.com/daem0nc0re/AtomicSyscall) | [daem0nc0re](https://github.com/daem0nc0re) | Tools and PoCs for Windows syscall investigation. | 309 | 2023-05-21 |
 | 37 |[ReadWriteDriver](https://github.com/ryan-weil/ReadWriteDriver) | [ryan-weil](https://github.com/ryan-weil) | A kernel driver for reading and writing memory | 110 | 2023-05-12 |
-| 38 |[public-apis](https://github.com/public-apis/public-apis) | [public-apis](https://github.com/public-apis) | A collective list of free APIs | 241506 | 2023-05-27 |
+| 38 |[public-apis](https://github.com/public-apis/public-apis) | [public-apis](https://github.com/public-apis) | A collective list of free APIs | 241507 | 2023-05-27 |
 | 39 |[hexo-theme-typography](https://github.com/sumimakito/hexo-theme-typography) | [sumimakito](https://github.com/sumimakito) | Rediscover the beauty of typography. | 560 | 2023-04-28 |
 | 40 |[WinArk](https://github.com/BeneficialCode/WinArk) | [BeneficialCode](https://github.com/BeneficialCode) | Windows Anti-Rootkit Tool | 100 | 2023-05-30 |
 | 41 |[QQFlacMusicDownloader](https://github.com/QiuChenly/QQFlacMusicDownloader) | [QiuChenly](https://github.com/QiuChenly) | [秋城落叶] QQ 音乐源无损歌曲下载 | 1610 | 2023-05-29 |
@@ -50,11 +50,11 @@
 | 44 |[OpenArk](https://github.com/BlackINT3/OpenArk) | [BlackINT3](https://github.com/BlackINT3) | OpenArk is an open source anti-rookit(ARK) tool for Windows.  | 5103 | 2023-02-28 |
 | 45 |[Windows-Rootkits](https://github.com/whitephone/Windows-Rootkits) | [whitephone](https://github.com/whitephone) | None | 24 | 2017-09-17 |
 | 46 |[weread_to_notion](https://github.com/malinkang/weread_to_notion) | [malinkang](https://github.com/malinkang) | 将微信读书划线同步到Notion | 250 | 2023-05-18 |
-| 47 |[ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) | [THUDM](https://github.com/THUDM) | ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型 | 26532 | 2023-05-29 |
+| 47 |[ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) | [THUDM](https://github.com/THUDM) | ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型 | 26534 | 2023-05-29 |
 | 48 |[ChatPaper](https://github.com/kaixindelele/ChatPaper) | [kaixindelele](https://github.com/kaixindelele) | Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复 | 12219 | 2023-05-29 |
 | 49 |[Advanced-Process-Injection-Workshop](https://github.com/RedTeamOperations/Advanced-Process-Injection-Workshop) | [RedTeamOperations](https://github.com/RedTeamOperations) | None | 567 | 2022-02-07 |
 | 50 |[WPeChatGPT](https://github.com/WPeace-HcH/WPeChatGPT) | [WPeace-HcH](https://github.com/WPeace-HcH) | A plugin for IDA that can help to analyze binary file, it is based on the gpt-3.5-turbo model traine... | 592 | 2023-05-12 |
-| 51 |[ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) | [dair-ai](https://github.com/dair-ai) | 🔥Highlighting the top ML papers every week. | 2746 | 2023-05-29 |
+| 51 |[ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) | [dair-ai](https://github.com/dair-ai) | 🔥Highlighting the top ML papers every week. | 2748 | 2023-05-29 |
 | 52 |[GPTSecurity](https://github.com/mo-xiaoxi/GPTSecurity) | [mo-xiaoxi](https://github.com/mo-xiaoxi) | 塑造未来的安全领域智能革命 | 247 | 2023-05-22 |
 | 53 |[law-cn-ai](https://github.com/lvwzhen/law-cn-ai) | [lvwzhen](https://github.com/lvwzhen) | ⚖️ AI 法律助手 | 3966 | 2023-05-24 |
 | 54 |[docker-colab-runtime-local](https://github.com/wsvn53/docker-colab-runtime-local) | [wsvn53](https://github.com/wsvn53) | This is a Docker container that replicates the Google colab(https://colab.research.google.com/) runt... | 58 | 2023-04-21 |
@@ -83,12 +83,12 @@
 | 77 |[evasion-hub](https://github.com/ybdt/evasion-hub) | [ybdt](https://github.com/ybdt) | 免杀对抗 | 154 | 2023-05-04 |
 | 78 |[BountyHunterInChina](https://github.com/J0o1ey/BountyHunterInChina) | [J0o1ey](https://github.com/J0o1ey) | 重生之我是赏金猎人系列，分享自己和团队在SRC、项目实战漏洞测试过程中的有趣案例 | 891 | 2023-04-04 |
 | 79 |[chatGPT-CodeReview](https://github.com/Kento-Sec/chatGPT-CodeReview) | [Kento-Sec](https://github.com/Kento-Sec) | 这是一个调用chatGPT进行代码审计的工具 | 315 | 2023-03-28 |
-| 80 |[carrot](https://github.com/xx025/carrot) | [xx025](https://github.com/xx025) | Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点 | 11723 | 2023-05-30 |
+| 80 |[carrot](https://github.com/xx025/carrot) | [xx025](https://github.com/xx025) | Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点 | 11722 | 2023-05-30 |
 | 81 |[ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | [Yidadaa](https://github.com/Yidadaa) | One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。 | 29171 | 2023-05-30 |
-| 82 |[gpt_academic](https://github.com/binary-husky/gpt_academic) | [binary-husky](https://github.com/binary-husky) | 为ChatGPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，支持Python和C++等项目剖析&自译解功能，PDF... | 34682 | 2023-05-30 |
+| 82 |[gpt_academic](https://github.com/binary-husky/gpt_academic) | [binary-husky](https://github.com/binary-husky) | 为ChatGPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，支持Python和C++等项目剖析&自译解功能，PDF... | 34683 | 2023-05-30 |
 | 83 |[Black-Angel-Rootkit](https://github.com/XaFF-XaFF/Black-Angel-Rootkit) | [XaFF-XaFF](https://github.com/XaFF-XaFF) | Black Angel is a Windows 11/10 x64 kernel mode rootkit. Rootkit can be loaded with enabled DSE while... | 413 | 2023-03-21 |
 | 84 |[Cronos-Rootkit](https://github.com/XaFF-XaFF/Cronos-Rootkit) | [XaFF-XaFF](https://github.com/XaFF-XaFF) | Cronos is Windows 10/11 x64 ring 0 rootkit. Cronos is able to hide processes, protect and elevate th... | 700 | 2022-03-29 |
-| 85 |[openai-translator](https://github.com/openai-translator/openai-translator) | [openai-translator](https://github.com/openai-translator) | 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application ... | 16431 | 2023-05-30 |
+| 85 |[openai-translator](https://github.com/openai-translator/openai-translator) | [openai-translator](https://github.com/openai-translator) | 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application ... | 16430 | 2023-05-30 |
 | 86 |[WebShell-Bypass-Guide](https://github.com/AabyssZG/WebShell-Bypass-Guide) | [AabyssZG](https://github.com/AabyssZG) | 从零学习Webshell免杀手册 | 430 | 2023-04-23 |
 | 87 |[Windows-Rootkits](https://github.com/ciyze0101/Windows-Rootkits) | [ciyze0101](https://github.com/ciyze0101) | None | 422 | 2020-11-21 |
 | 88 |[ntoskrnl](https://github.com/Jhinxs/ntoskrnl) | [Jhinxs](https://github.com/Jhinxs) | 收集常用windows版本内核文件 | 25 | 2022-07-18 |
@@ -103,8 +103,8 @@
 | 97 |[QQChannelChatGPT](https://github.com/Soulter/QQChannelChatGPT) | [Soulter](https://github.com/Soulter) | ⭐稳定 😊多平台 ✨低耦合 🧀支持插件的ChatGPT, Bing, HuggingChat聊天机器人 | 在QQ和QQ频道上聊天 | ChatGPT on QQ | 376 | 2023-05-29 |
 | 98 |[bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) | [yihong0618](https://github.com/yihong0618) | Make bilingual epub books Using AI translate | 5780 | 2023-05-28 |
 | 99 |[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) | [xinntao](https://github.com/xinntao) | Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration. | 20761 | 2023-05-25 |
-| 100 |[chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | [zhayujie](https://github.com/zhayujie) | Wechat robot based on ChatGPT,  which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3... | 12590 | 2023-05-29 |
-| 101 |[stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | [AUTOMATIC1111](https://github.com/AUTOMATIC1111) | Stable Diffusion web UI | 79394 | 2023-05-30 |
+| 100 |[chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | [zhayujie](https://github.com/zhayujie) | Wechat robot based on ChatGPT,  which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3... | 12591 | 2023-05-29 |
+| 101 |[stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | [AUTOMATIC1111](https://github.com/AUTOMATIC1111) | Stable Diffusion web UI | 79395 | 2023-05-30 |
 | 102 |[QChatGPT](https://github.com/RockChinQ/QChatGPT) | [RockChinQ](https://github.com/RockChinQ) | 😎高稳定性、🐒低耦合、🧩支持插件、适配多种模型的 ChatGPT New Bing QQ 机器人🤖  | 2451 | 2023-05-29 |
 | 103 |[haoel.github.io](https://github.com/haoel/haoel.github.io) | [haoel](https://github.com/haoel) | None | 11282 | 2023-05-11 |
 | 104 |[video-virtual-memory-materials](https://github.com/dulong-lab/video-virtual-memory-materials) | [dulong-lab](https://github.com/dulong-lab) | 《关于编写 x64 Windows 10 驱动以了解虚拟内存这件事》系列视频附带的代码和材料 | 79 | 2023-01-26 |
@@ -125,7 +125,7 @@
 | 119 |[AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy) | [r0ysue](https://github.com/r0ysue) | 安卓应用安全学习 | 3020 | 2023-05-25 |
 | 120 |[review-2022](https://github.com/saveweb/review-2022) | [saveweb](https://github.com/saveweb) | 饿您饿饿年，你吃年终总结了馍？ | 173 | 2023-04-15 |
 | 121 |[best_AI_papers_2022](https://github.com/louisfb01/best_AI_papers_2022) | [louisfb01](https://github.com/louisfb01) | A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explan... | 3126 | 2023-02-14 |
-| 122 |[awesome-courses](https://github.com/prakhar1989/awesome-courses) | [prakhar1989](https://github.com/prakhar1989) | :books: List of awesome university courses for learning Computer Science! | 47389 | 2023-05-04 |
+| 122 |[awesome-courses](https://github.com/prakhar1989/awesome-courses) | [prakhar1989](https://github.com/prakhar1989) | :books: List of awesome university courses for learning Computer Science! | 47390 | 2023-05-04 |
 | 123 |[malware-detection](https://github.com/dchad/malware-detection) | [dchad](https://github.com/dchad) | Malware Detection and Classification Using Machine Learning | 277 | 2017-06-05 |
 | 124 |[asm_book](https://github.com/pkivolowitz/asm_book) | [pkivolowitz](https://github.com/pkivolowitz) | A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming... | 2134 | 2023-05-17 |
 | 125 |[llvm-ir-tutorial](https://github.com/Evian-Zhang/llvm-ir-tutorial) | [Evian-Zhang](https://github.com/Evian-Zhang) | LLVM IR入门指南 | 932 | 2022-04-12 |
@@ -234,7 +234,7 @@
 | 228 |[sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list) | [payloadbox](https://github.com/payloadbox) | 🎯 SQL Injection Payload List | 3352 | 2022-05-28 |
 | 229 |[yara](https://github.com/VirusTotal/yara) | [VirusTotal](https://github.com/VirusTotal) | The pattern matching swiss knife | 6732 | 2023-05-26 |
 | 230 |[yara-python](https://github.com/VirusTotal/yara-python) | [VirusTotal](https://github.com/VirusTotal) | The Python interface for YARA | 533 | 2023-04-26 |
-| 231 |[rules](https://github.com/Yara-Rules/rules) | [Yara-Rules](https://github.com/Yara-Rules) | Repository of yara rules | 3591 | 2023-04-05 |
+| 231 |[rules](https://github.com/Yara-Rules/rules) | [Yara-Rules](https://github.com/Yara-Rules) | Repository of yara rules | 3592 | 2023-04-05 |
 | 232 |[pawnyable](https://github.com/ptr-yudai/pawnyable) | [ptr-yudai](https://github.com/ptr-yudai) | PAWNYABLE! | 138 | 2023-05-21 |
 | 233 |[nginx-tutorial](https://github.com/dunwu/nginx-tutorial) | [dunwu](https://github.com/dunwu) | 这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。 | 3567 | 2023-02-09 |
 | 234 |[ctf-wscan](https://github.com/kingkaki/ctf-wscan) | [kingkaki](https://github.com/kingkaki) | 为ctf而生的web扫描器 | 299 | 2019-10-22 |
@@ -476,7 +476,7 @@
 | 470 |[BadCode](https://github.com/Rvn0xsy/BadCode) | [Rvn0xsy](https://github.com/Rvn0xsy) | 恶意代码逃逸源代码 http://payloads.online | 676 | 2022-03-07 |
 | 471 |[security-paper](https://github.com/firmianay/security-paper) | [firmianay](https://github.com/firmianay) | （与本人兴趣强相关的）各种安全or计算机资料收集 | 640 | 2022-04-12 |
 | 472 |[linux-insides](https://github.com/0xAX/linux-insides) | [0xAX](https://github.com/0xAX) | A little bit about a linux kernel | 28189 | 2023-05-17 |
-| 473 |[linux](https://github.com/torvalds/linux) | [torvalds](https://github.com/torvalds) | Linux kernel source tree | 152447 | 2023-05-29 |
+| 473 |[linux](https://github.com/torvalds/linux) | [torvalds](https://github.com/torvalds) | Linux kernel source tree | 152448 | 2023-05-29 |
 | 474 |[linux-insides-zh](https://github.com/MintCN/linux-insides-zh) | [MintCN](https://github.com/MintCN) | Linux 内核揭秘 | 6287 | 2023-03-20 |
 | 475 |[MIT6.S081-2020fall](https://github.com/PKUFlyingPig/MIT6.S081-2020fall) | [PKUFlyingPig](https://github.com/PKUFlyingPig) | MIT undergraduate operating system course | 198 | 2021-01-15 |
 | 476 |[MIT6.828_OS](https://github.com/SmallPond/MIT6.828_OS) | [SmallPond](https://github.com/SmallPond) | MIT 6.828 Operating System Lab https://pdos.csail.mit.edu/6.828/2018/schedule.html | 794 | 2023-03-29 |

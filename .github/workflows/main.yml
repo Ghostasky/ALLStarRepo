@@ -1,6 +1,6 @@
 name: Action Practice
 
-on: 
+on:
   push:
   schedule:
     - cron: "0 23 * * *"
@@ -31,8 +31,8 @@ jobs:
       - name: Upload a.txt to GitHub
         uses: actions/upload-artifact@v2
         with:
-          name: 3.md
-          path: ./3.md
+          name: README.md
+          path: ./README.md
       - name: Commit changes
         run: |
           git config --global user.email "2992721672@qq.com"

@@ -2,8 +2,8 @@ import json
 import requests
 import os
 
+
 key = os.environ.get("KEY")
-# key = "asdfsadfasdf"
 print(key)
 url = "https://api.github.com/user/starred"
 

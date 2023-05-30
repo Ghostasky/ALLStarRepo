@@ -4,7 +4,6 @@ import os
 
 
 key = os.environ.get("KEY")
-print(key)
 url = "https://api.github.com/user/starred"
 
 headers = {
@@ -12,7 +11,6 @@ headers = {
     "Authorization": f"Bearer {key}",
     "X-GitHub-Api-Version": "2022-11-28",
 }
-print(headers)
 fp = open("./3.md", "w", encoding="utf-8")
 fp.writelines("# ALL repo\n\n")
 fp.writelines("这里显示我所有star的repo\n\n")

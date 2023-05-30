@@ -11,8 +11,8 @@ headers = {
     "Authorization": f"Bearer {key}",
     "X-GitHub-Api-Version": "2022-11-28",
 }
-fp = open("./3.md", "w", encoding="utf-8")
-fp.writelines("# ALL repo\n\n")
+fp = open("./README.md", "w", encoding="utf-8")
+fp.writelines("# ALLStarRepo\n\n")
 fp.writelines("这里显示我所有star的repo\n\n")
 fp.writelines("| Num | Name |  auther   | Description  | Stars | Last update |\n")
 fp.writelines("|-------|------|-------------|----------|-------|----|\n")

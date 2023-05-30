@@ -27,7 +27,6 @@ jobs:
         run: |
           python3 -m pip install --upgrade pip
           pip install requests
-          pip install json
           python3 ./a.py
       - name: Upload a.txt to GitHub
         uses: actions/upload-artifact@v2

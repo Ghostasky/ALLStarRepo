@@ -6,7 +6,6 @@ env:
   TZ: Asia/Shanghai
 
 jobs:
-  # a single job
   a-job-name:
     runs-on: ubuntu-latest
     steps:

@@ -2,7 +2,6 @@ import json
 import requests
 import os
 
-
 key = os.environ.get("KEY")
 url = "https://api.github.com/user/starred"
 

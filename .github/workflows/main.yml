@@ -1,6 +1,17 @@
 name: Action Practice
 on:
   push:
+    branches: [main]
+  # 每周一 08:23（北京时间）跑一次；schedule 的 cron 按 UTC 计，故写 00:23 UTC（错开整点高峰）
+  schedule:
+    - cron: "23 0 * * 1"
+  # 允许在 Actions 页手动触发
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: readme-update
+  cancel-in-progress: false
 env:
   TZ: Asia/Shanghai
 jobs:
@@ -8,11 +19,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Clone repo
-        uses: actions/checkout@v2
-      - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Set up Python3
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
           python-version: "3.x"
       - name: run
@@ -22,15 +31,14 @@ jobs:
           python3 -m pip install --upgrade pip
           pip install requests
           python3 ./a.py
-      - name: Upload a.txt to GitHub
-        uses: actions/upload-artifact@v2
-        with:
-          name: README.md
-          path: ./README.md
       - name: Commit changes
         run: |
           git config --global user.email "2992721672@qq.com"
           git config --global user.name "Ghostasky"
-          git add .
-          git commit -m "Add"
-          git push origin main
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "README unchanged, skip commit"
+          else
+            git commit -m "Update starred repos"
+            git push origin main
+          fi
